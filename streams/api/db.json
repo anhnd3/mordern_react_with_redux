@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "Stream with userid 1",
+      "userID": "113675667208592333911",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "Stream create by me 222",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "Stream with userid 3",
+      "userID": "113675667208592333912",
+      "id": 3
+    },
+    {
+      "title": "Stream 4",
+      "description": "Stream with userid 4",
+      "userID": "113675667208592333914",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page",
+      "userID": "113675667208592333910",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "Watch me refactor some components.",
+      "userID": "113675667208592333910",
+      "id": 6
+    }
+  ]
+}
